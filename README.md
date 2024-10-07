@@ -1,4 +1,3 @@
-# AAAI-marker
-paper Posted by 2025 AAAI Copyright Protection of Code Summarization Models via Lightweight Backdoor Watermarks 
 
+paper Posted by 2025 WWW--Beyond Dataset Watermarking: Model-Level Copyright Protection for Code Summarization Models
 The source code is being sorted out, so stay tuned
